@@ -1,0 +1,1 @@
+This is a fully funcitonal local library database backend. Simple yet powerful tool to add and remove books, author, genres and much more! it was mainly intended to learn deployment on railway. here is the link: [here](https://local-library-express-production-f0fc.up.railway.app/)
